@@ -1,4 +1,4 @@
-## Theo dõi máy tính với Python - HARRY(Phúc Còi)
+## Theo dõi hoạt động máy tính với Python - *Ứng dụng trên hệ điều hành mã nguồn mở LINUX*
 ### Giới Thiệu
 + Chắc hẳn trong chúng ta, nhiều người ta không dưới 1 lần nghe tới khái niệm “keylogger”. Tuy có thể cảm nhận mơ hồ rằng đó là thứ nguy hiểm, một công cụ lợi hại có thể giúp kẻ xấu lấy cắp thông tin mà ta nhập vào từ bàn phím. 
 + Đây không còn là khái niệm mới, bạn có thể dễ dàng tìm tool này để vọc vạch trên Internet nhưng ở đây mình sẽ thực hiện nó với ngôn ngữ Python
@@ -23,5 +23,5 @@
 ## 
 
 ## Author
-* **Trịnh Đình Phúc-1A ** - *FB link :D* - [Phuc Trinh](https://www.facebook.com/HarryAndRap)
+* **Trịnh Đình Phúc-1A ** - *Contact link* - [Phuc Trinh](https://www.facebook.com/HarryAndRap)
 * ![alt text](https://instagram.fdad2-1.fna.fbcdn.net/t51.2885-19/s150x150/18161730_1915204632049208_5721939814677217280_a.jpg "Logo Title Text ")
