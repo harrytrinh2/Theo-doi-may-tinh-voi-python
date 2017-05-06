@@ -16,7 +16,7 @@
     * Python dễ đọc
     * *Python miễn phí* (The most important thing :D)
 
-    ++ #### ĐIỂM YẾU
+    * #### ĐIỂM YẾU
     * Python không phải là ngôn ngữ nhanh nhất
     * Python không hẳn có hết tất cả các thư viện 
     * Python không kiểm tra kiểu dữ liệu khi biên dịch
