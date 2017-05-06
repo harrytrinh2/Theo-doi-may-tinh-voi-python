@@ -1,0 +1,5 @@
+Đề tài: Theo dõi máy tính (Keystroke logging) sử dụng ngôn ngữ Python
+Thành Viên: Trịnh Đình Phúc - Nhóm trưởng 
+email: phuccoi996@gmail.com
+phone: 016 888 900 93
+Lớp: ĐHCN1A-kHOA CNTT-ĐHTTLL
